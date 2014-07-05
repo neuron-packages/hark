@@ -16,5 +16,16 @@
   "dependencies": {
     "wildemitter": "1.0.x"
   },
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "cortex": {
+    "dependencies": {
+      "wildemitter": "^1.0.1"
+    },
+    "asyncDependencies": {},
+    "devDependencies": {},
+    "directories": {},
+    "engines": {},
+    "scripts": {},
+    "ignores": ["example"]
+  }
 }
